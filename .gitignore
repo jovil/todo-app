@@ -1,0 +1,7 @@
+*.log
+*.lock
+node_modules
+.idea
+.firebase*
+firebase.json
+dist/
